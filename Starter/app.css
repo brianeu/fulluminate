@@ -12,3 +12,7 @@ body {
 	font-size: 1.5rem;
 	font-weight: 100;
 }
+#main-nav.scrolled {
+	transition: ease-in-out 200ms;
+	background-color: rgb(4, 42, 114)!important;
+}
